@@ -17,7 +17,7 @@
   <br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1Rx3cuPvV2w_WY0wdG6UgzUyxHBjWqNFm/view?usp=share_link">Resume</a>
   <br><br>
- 👨‍💻  Know more about me <a href="https://binodokheda.github.io/">Portfolio</a>
+ 👨‍💻  Know more about me <a href="https://binodokheda.github.io/">Portfolio https://binodokheda.github.io/ </a>
   <br><br>
  😄 All of my projects are available at <a href="https://github.com/BinodOkheda">My Github Repositories</a>
   <br><br>
